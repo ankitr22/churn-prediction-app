@@ -22,14 +22,14 @@ const About = () => {
         </div>
 
         <h1 style={{marginBottom: '0.5rem'}}>Ankit</h1>
-        <a href="mailto:your_email@example.com" style={{color: 'var(--primary-color)', textDecoration: 'none', fontSize: '1.1rem'}}>
-          your_email@example.com
+        <a href="mailto:ankit.maurya.d@gmail.com" style={{color: 'var(--primary-color)', textDecoration: 'none', fontSize: '1.1rem'}}>
+          ankit.maurya.d@gmail.com
         </a>
 
         <div style={{marginTop: '2.5rem', textAlign: 'left', background: 'rgba(0,0,0,0.2)', padding: '2rem', borderRadius: '12px'}}>
           <h3 style={{marginBottom: '1rem'}}>Hello! 👋</h3>
           <p style={{color: 'var(--text-muted)', lineHeight: '1.7'}}>
-            I am passionate about leveraging artificial intelligence models and scalable software architectures to solve real-world problems. 
+            I am a B.Tech CSE student (2026 passout) from Lovely Professional University. I am passionate about leveraging artificial intelligence models and scalable software architectures to solve real-world problems. 
             This application demonstrates end-to-end Machine Learning deployment, utilizing an Artificial Neural Network trained carefully with SMOTE to mitigate dataset imbalances, integrated seamlessly into a robust fullstack web application using FastAPI and React.
           </p>
         </div>
