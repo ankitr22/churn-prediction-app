@@ -1,0 +1,13 @@
+pandas
+scikit-learn
+imbalanced-learn
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
+pymysql
+cryptography
+passlib
+bcrypt==3.2.2
+PyJWT
+openpyxl
